@@ -51,13 +51,13 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vishal-satpute-lucifer300/" target="_blank">
+  <a href="https://www.linkedin.com/in/ashwin-gajbhiye-33013128a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/Vishal300162154" target="_blank">
+  <a href="https://x.com/Ashwin3611" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/vishal_7pute_13/" target="_blank">
+  <a href="https://www.instagram.com/ashwingajbhiye36/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
